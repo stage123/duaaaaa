@@ -21,7 +21,7 @@ logo=http://cimg.tvgcdn.net/i/r/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/
 #EXTINF:0, AMC cCloudTV.ORG (Top10) (US) (English)
 logo=http://i.imgur.com/PJ3OW4C.png stream=https://videoserver2.org/live/xnNuSsI497Ne4Wrs0h0yeQ/1509328579/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Top10
 
-#EXTINF:0, AMC (Entertainment) (US) (English)
+#EXTINF:0, AMC (Entertainment) (US)
 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png stream=https://videoserver2.org/live/xnNuSsI497Ne4Wrs0h0yeQ/1509328579/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Entertainment
 
 #EXTINF:0, Action Movies (RandomAirTime 24/7) (US) (English)
