@@ -174,8 +174,8 @@ logo=https://www.arconaitv.me/wp-content/uploads/2016/02/frasier.jpg stream=http
 #EXTINF:0, Fresh Prince of Bel Air (RandomAirTime 24/7) (US) (English)
 logo=https://www.arconaitv.me/wp-content/uploads/2015/11/fresh-prince-2.jpg stream=https://videoserver1.org/live/8drpGH6sVxsOYtTg4fx5vg/1509329140/0666f0acdeed38d4cd9084ade1739498.m3u8 cat=RandomAirTime 24/7
 
-#EXTINF:0, Friends (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/Friends-ShowcardVertical1.jpg stream=https://videoserver2.org/live/nqDmIM6Z0_TiJoA0SDJbsQ/1509329795/28f20a02bf8a021fab4fcec48afb584e.m3u8 cat=RandomAirTime 24/7
+#EXTINF:0, Friends 24/7
+https://videoserver2.org/live/nqDmIM6Z0_TiJoA0SDJbsQ/1509329795/28f20a02bf8a021fab4fcec48afb584e.m3u8
 
 #EXTINF:0, Futurama (RandomAirTime 24/7) (US) (English)
 logo=https://www.arconaitv.me/wp-content/uploads/2015/06/9.png stream=https://videoserver2.org/live/-_sh9t-e61wmkzsvlVCXug/1509328642/89e6d2b383471fc370d828e552c19e65.m3u8 cat=RandomAirTime 24/7
