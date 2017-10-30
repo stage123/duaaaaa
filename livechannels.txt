@@ -321,8 +321,8 @@ logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.jpg stream=https://vi
 #EXTINF:0, The Musketeers (RandomAirTime 24/7) (US) (English)
 logo=http://www.gstatic.com/tv/thumb/tvbanners/10426177/p10426177_b_v8_ac.jpg stream=https://videoserver2.org/live/gQErNU5dxui8__KdQo-zAw/1509328687/547ec0808af5da4e91c23fcd43738efe.m3u8 cat=RandomAirTime 24/7
 
-#EXTINF:0, The Office (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/07/the-office.jpg stream=https://videoserver2.org/live/qGINyCihcT6ZhfWCOYRHYw/1509329848/e72f4545eb68c96c754f91fc01573517.m3u8 cat=RandomAirTime 24/7
+#EXTINF:0, The Office 24/7 Live
+https://videoserver2.org/live/qGINyCihcT6ZhfWCOYRHYw/1509329848/e72f4545eb68c96c754f91fc01573517.m3u8
 
 #EXTINF:0, The Outer Limits (RandomAirTime 24/7) (US) (English)
 logo=http://www.gstatic.com/tv/thumb/tvbanners/509419/p509419_b_v8_aa.jpg stream=https://videoserver2.org/live/cyvJEdYTWqgYXplwpXEcoA/1509329035/28f550f1a6953e830a31f9ebf7af0333.m3u8 cat=RandomAirTime 24/7
